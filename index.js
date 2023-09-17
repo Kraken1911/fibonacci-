@@ -1,3 +1,5 @@
+//hernandez Cervantes Derek ivan
+//programa serie fibonacci
 function fibonacci(n) {
     if (n <= 0) {
       return [];
